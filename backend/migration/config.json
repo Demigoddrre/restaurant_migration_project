@@ -1,0 +1,9 @@
+{
+    "postgres": {
+        "dbname": "restaurant-db-postgres",
+        "user": "postgres",
+        "password": "foodforthought",
+        "host": "your_postgres_instance_ip",
+        "port": "5432"
+    }
+}
